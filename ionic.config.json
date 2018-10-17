@@ -1,0 +1,7 @@
+{
+  "name": "b2ball",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
